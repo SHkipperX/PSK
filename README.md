@@ -5,3 +5,6 @@
 # What do code?
 This method will return all pairs of "Product Name – Category Name" and the names of all products that do not have categories.\
 ![img](img.png)
+
+## Clone Rep
+> git clone https://github.com/SHkipperX/PSK.git
