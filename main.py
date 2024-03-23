@@ -26,4 +26,3 @@ new_df = (
 )
 new_df = new_df.na.drop(subset=[column_product])
 print(new_df.show(30))
-# Другого способа это сделать не нашёл.
